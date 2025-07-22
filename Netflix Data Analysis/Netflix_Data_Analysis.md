@@ -35,6 +35,7 @@ The project consists of 15 objectives, each solving a specific analytical or mac
 ## 📊 Key Insights
 
 - We can notice from the above visual that "Drama" genre is the most frequent genre in our dataset and has appeared more than 14% of the times among 19 other genres.
+- The year with the most films is 2021 with 716 films.
 - "Average" Vote category has the highest vote count while the Not_popular voting has the lowest vote count.
 - Spider-Man: No Way Home has the popularity and it's genre is Action,Adventure and Science Fiction
 - The United States vs. Billie Holiday and Threads are the low popular film and their genre are Music,drama,history and war,drama and science fiction respectively.
